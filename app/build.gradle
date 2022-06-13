@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "de.bembelnaut.glc.diceroller"
+        applicationId "de.bembelnaut.gcl.diceroller"
         minSdk 19
         targetSdk 31
         versionCode 1

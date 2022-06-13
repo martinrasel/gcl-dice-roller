@@ -1,4 +1,4 @@
-package de.bembelnaut.glc.diceroller
+package de.bembelnaut.gcl.diceroller
 
 class Dice(private val numSides: Int) {
 
